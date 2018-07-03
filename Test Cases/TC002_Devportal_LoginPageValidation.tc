@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Devportal_LoginPageValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c5d8e97-87bb-45b3-9c6d-85193a6d4e79</testCaseGuid>
+</TestCaseEntity>
